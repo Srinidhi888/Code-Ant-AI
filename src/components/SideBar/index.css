@@ -1,0 +1,63 @@
+.side-bar {
+    padding-left: 10px;
+    height: 100vh;
+    padding-right: 20px;
+}
+.stick {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo-img {
+    height: 30px;
+    padding-right: 10px;
+    width: 30px;
+}
+.select-ipt {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+.btn-opt-spcl {
+    background-color: #24A0ED;
+    color: white;
+    height: 40px;
+    border: none;
+    width: 200px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 10px;
+}
+.btn-opt:hover {
+    background-color: lightgrey;
+}
+.btn-opt {
+    padding-left: 10px;
+    background-color: white;
+    color: black;
+    height: 40px;
+    border: none;
+    width: 200px;
+    display: flex;
+    justify-content: start;
+    border-radius: 5px;
+    align-items: center;
+}
+.icon {
+    height: 18px;
+    width: 18px;
+    padding-right: 10px;
+}
+.foot {
+    padding-right: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    padding-left: 10px;
+}

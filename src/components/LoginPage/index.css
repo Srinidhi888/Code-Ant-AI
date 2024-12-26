@@ -1,0 +1,175 @@
+
+.left-side {
+    display: flex;
+    height: 100vh;
+    width: 500px;
+}
+.img-left {
+    display: flex;
+    align-items: flex-end;
+    height: 100vh;
+}
+.login-box {
+    display: flex;
+}
+.logo-login {
+    height: 250px;
+    width: 250px;
+}
+.bg-all {
+    text-align: center;
+    padding-right: 20px;
+}
+.login-logo {
+    height: 40px;
+    width: 40px;
+}
+hr {
+    background-color: black;
+    border-style: solid;
+    height: 0.5px;
+    width: 100%;
+}
+.bg-login {
+    display: flex;
+    align-items: center;
+}
+.ento {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bg-inner-login {
+    position: absolute;
+    top: 100px;
+    padding: 20px;
+    height: 180px;
+    width: 400px;
+    left: 150px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.all-right-login{
+    display: flex;
+    justify-content: space-around;
+}
+.bg-issue {
+    position: absolute;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    left: 410px;
+    background-color: white;
+    bottom: 115px;
+    border-radius: 10px;
+    height: 160px;
+    width:180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pie {
+    color: #9696fe;
+    background-color: #e6e6fa;
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    padding: 15px;
+}
+span {
+    color: #24A0ED;
+}
+.colo {
+    color: #24A0ED;
+}
+.issue-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.right-side {
+    background-color: #f9f7f7;
+    position: absolute;
+    right: 0px;
+    width: 650px;
+    text-align: center;
+    height: 100vh
+}
+.logo-login-1 {
+    height: 50px;
+    width: 50px;
+}
+.div-cen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-bg {
+    background-color: #f9f7f7;
+    padding: 3px;
+    width: 500px;
+    border-radius: 10px;
+}
+.btn-s{
+    height: 40px;
+    width: 250px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.btn-sh {
+    height: 40px;
+    width: 250px;
+    border: none;
+    background-color: transparent;
+    border-radius: 10px;
+}
+.bit-buc {
+    height: 30px;
+}
+.ln {
+    color: #f9f7f7;
+    width: 100%;
+}
+.git-lab {
+    height: 15px;
+    padding-right: 10px;
+}
+.re-ic {
+    padding-right: 10px;
+}
+.btn-bg-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn-sign {
+    background-color: white;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 40px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signin {
+    
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 20px;
+}
+.link {
+    text-decoration: none;
+}
+.alt-col {
+    background-color: #24A0ED;
+    color: white;
+}
